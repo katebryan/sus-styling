@@ -1,3 +1,3 @@
-# Sustainable Styling   
+# Sustainable Styling 💅🏻
 
-Testing data usege in different styling libs
+Testing data usage in different styling libs
